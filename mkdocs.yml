@@ -45,5 +45,5 @@ plugins:
   - mkdocs-jupyter:
       include_source: True
 
-hide:
-  - navigation 
+extra_css:
+  - stylesheets/extra.css
