@@ -1,0 +1,49 @@
+site_name: Linear Regression Model using English Premier League (EPL) Soccer Data
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/icon.png
+  custom_dir: overrides
+  features:
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+
+    - scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    - scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.snippets
+
+nav:
+  - Home: notebook.ipynb
+
+plugins:
+  - search:
+      lang: en
+
+plugins:
+  - mkdocs-jupyter:
+      include_source: True
+
+hide:
+  - navigation 
