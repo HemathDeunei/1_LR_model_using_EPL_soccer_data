@@ -3,7 +3,7 @@ site_name: Linear Regression Model using English Premier League (EPL) Soccer Dat
 theme:
   name: material
   logo: assets/logo.png
-  favicon: assets/icon.png
+  favicon: assets/logo.png
   custom_dir: overrides
   features:
     - announce.dismiss
@@ -30,7 +30,7 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-
+  
     - scheme: slate
       primary: black
       accent: black
@@ -97,6 +97,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - mkdocs-jupyter:
       include_source: True
+  - table-reader
 
 extra_css:
   - stylesheets/extra.css

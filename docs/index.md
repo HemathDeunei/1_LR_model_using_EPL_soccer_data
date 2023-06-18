@@ -53,3 +53,23 @@ It is built on NumPy, SciPy, and matplotlib to support machine learning in Pytho
 * **SciPy**: SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics, and many other classes of problems. Refer to [documentation](https://scipy.org/) for more information.
  
 
+## Sample Data
+
+
+{{ read_csv('./docs/assets/data.csv') }}
+
+## Jupyter Notebook
+
+
+ - [x] Use this [link :link:](https://git.hemath.com/1_LR_model_using_EPL_soccer_data/notebook/ ) to view the jupyter notebook of this project.
+
+## Related Blog
+
+ - [x] check out this [Blog :link:](https://blog.hemath.com/linear-regression-model-using-english-premier-league-epl-soccer-data).
+
+## Downloads
+
+ - [x] use this [link :link:](https://data.hemath.com/access/file_csv/1_Soccer_Data.csv) to download the data.
+ - [x] use this [link :link:](https://data.hemath.com/access/notebooks/1_LR_model_using_EPL_soccer_data.ipynb) to download the notebook.
+
+
