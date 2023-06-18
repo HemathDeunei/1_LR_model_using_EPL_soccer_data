@@ -76,4 +76,4 @@ It is built on NumPy, SciPy, and matplotlib to support machine learning in Pytho
 
 !!! Tip "Say Hi, to collaborate!"
 
-    Hello there, The fun for me in collaboration is, working with other people just makes both smarter; that’s proven. Having said that, drop a mail at mr@hemath.com.
+    Hello there, The fun for me in collaboration is, working with other people just makes us smarter; that’s proven. Having said that, drop a mail at mr@hemath.com.
