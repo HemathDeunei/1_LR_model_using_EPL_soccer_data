@@ -73,3 +73,7 @@ It is built on NumPy, SciPy, and matplotlib to support machine learning in Pytho
  - [x] use this [link :link:](https://data.hemath.com/access/notebooks/1_LR_model_using_EPL_soccer_data.ipynb) to download the notebook.
 
 
+
+!!! Tip "Say Hi, to collaborate!"
+
+    Hello there, The fun for me in collaboration is, one, working with other people just makes you smarter; that’s proven. Having said that, drop a mail at mr@hemath.com.
