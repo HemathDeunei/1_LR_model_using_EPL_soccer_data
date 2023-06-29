@@ -2,8 +2,8 @@ site_name: Linear Regression Model using English Premier League (EPL) Soccer Dat
 
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/menu.png
+  favicon: assets/favi.png
   custom_dir: overrides
   features:
     - announce.dismiss
